@@ -41,6 +41,9 @@ export default function Skills() {
                             <img src={react} alt="" className='rounded-full w-24 h-24 object-cover' />
                         </li>
                     </nav>
+
+
+                    
                 </div>
             </div>
         </section>
