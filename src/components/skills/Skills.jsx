@@ -40,6 +40,8 @@ export default function Skills() {
                         <li className='lg:w-1/3 mb-4 w-1/2'>
                             <img src={react} alt="" className='rounded-full w-24 h-24 object-cover' />
                         </li>
+
+                        
                     </nav>
                     
                 </div>
