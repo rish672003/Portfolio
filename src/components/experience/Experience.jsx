@@ -17,9 +17,11 @@ export default function Experience() {
         <div data-aos='fade-left' data-aos-delay='400' className='lg:flex-grow md:w-1/2 lg:pl-8 md:pl-8 flex flex-col md:items-start md:text-left items-center text-center '>
             <h1 className='title-font sm:text-4xl text-3xl mb-4 font-medium text-orange-500 '>Experience</h1>
             <h2 className='title-font font-bold text-white sm:text-2xl '>2023 :</h2>
-            <p className='mb-8 text-white leading-relaxed '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptate soluta, inventore veritatis quo odio repellat ad atque veniam aspernatur consectetur ipsum quis repellendus necessitatibus, ipsam nulla dolor id laudantium!</p>
+            <p className='mb-8 text-white leading-relaxed '>Web Developer — Enteract Club
+            Designed and developed the club’s website using ReactJS and Tailwind CSS, creating a responsive, user-friendly platform. Collaborated with the team to align visuals with branding and ensured optimized performance.</p>
             <h2 className='title-font font-bold text-white sm:text-2xl '>2024 :</h2>
-            <p className='mb-8 text-white leading-relaxed '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptate soluta, inventore veritatis quo odio repellat ad atque veniam aspernatur consectetur ipsum quis repellendus necessitatibus, ipsam nulla dolor id laudantium!</p>
+            <p className='mb-8 text-white leading-relaxed '>I am actively enhancing my technical skills by diving deep into Data Structures and Algorithms (DSA) and Database Management Systems (DBMS), building a strong foundation in both areas. Alongside this, I am consistently solving problems from the Love Babbar DSA Sheet to sharpen my problem-solving abilities. 
+              Additionally, I developed a Gemini Clone, a web application built using ReactJS and Tailwind CSS, focusing on creating a sleek and interactive user experience.!</p>
         </div>
         </div>
     </section>
